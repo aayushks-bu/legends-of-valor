@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="482d4579-0e53-4a78-abcf-0ffb251bd9ce" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/DESIGN.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Armory.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Dragons.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Exoskeletons.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/FireSpells.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/IceSpells.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/LightningSpells.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Paladins.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Potions.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Sorcerers.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Spirits.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Warriors.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Weaponry.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/board/Board.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/board/Cell.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/board/CellType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/board/LegendsBoard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/board/ValorBoard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/common/ErrorHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/common/GameRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/common/InputValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/common/RandomGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/entities/Dragon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/entities/Exoskeleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/entities/Hero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/entities/Monster.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/entities/Paladin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/entities/Party.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/entities/RPGCharacter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/entities/Sorcerer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/entities/Spirit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/entities/Warrior.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/game/BattleController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/game/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/game/LegendsGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/game/MarketController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/game/ValorGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/items/Armor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/items/FireSpell.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/items/HealingPotion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/items/IceSpell.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/items/Inventory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/items/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/items/LightningSpell.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/items/ManaPotion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/items/Potion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/items/Spell.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/items/StatPotion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/items/Weapon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/ConsoleColors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/GameDataLoader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uml.png" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="36oBNjV3EESFx3kEeW4SSMt9blX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.26199.169" />
+        <option value="bundled-js-predefined-d6986cc7102b-9c94529fcfe0-JavaScript-IU-252.26199.169" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="482d4579-0e53-4a78-abcf-0ffb251bd9ce" name="Changes" comment="" />
+      <created>1765663007303</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1765663007303</updated>
+      <workItem from="1765663008804" duration="15000" />
+      <workItem from="1765846995207" duration="2448000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
